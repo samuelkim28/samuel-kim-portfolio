@@ -5,3 +5,5 @@ This is my personal portfolio website showcasing my projects, skills, and experi
 Built with [Next.js](https://nextjs.org/) and deployed via [Vercel](https://vercel.com/).
 
 ## Visit My Portfolio
+
+[https://samuel-kim-portfolio.vercel.app/](https://samuel-kim-portfolio.vercel.app/)
