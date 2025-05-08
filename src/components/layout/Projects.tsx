@@ -11,7 +11,7 @@ const projectInfo = [
   {
     name: "Personal Portfolio Website",
     img: "/project-screenshots/portfolio-screenshot.png",
-    link: "https://github.com/samuelkim28/MLB-Player-Performance-Tracker",
+    link: "https://github.com/samuelkim28/samuel-kim-portfolio",
     desc: "Portfolio website built using Next.js and Tailwind CSS",
     tools: ["Next.js", "TypeScript", "Tailwind CSS"]
   },
