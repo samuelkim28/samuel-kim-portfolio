@@ -1,6 +1,13 @@
 import ProjectCard from "../cards/ProjectCard";
 
-const projectInfo = [
+const projectInfo = [  
+  {
+    name: "Stock Tracking and Analysis",
+    img: "/project-screenshots/stock-app-screenshot.png",
+    link: "https://github.com/samuelkim28/stock-tracking-and-analysis",
+    desc: "Discover new stocks and gain important insights about their volatility and overall trends",
+    tools: ["Next.js", "TypeScript", "Flask", "Python", "yfinance", "Tailwind CSS"]
+  },
   {
     name: "MLB Player Performance Tracker",
     img: "/project-screenshots/web-app-screenshot.png",
@@ -14,7 +21,7 @@ const projectInfo = [
     link: "https://github.com/samuelkim28/samuel-kim-portfolio",
     desc: "Portfolio website built using Next.js and Tailwind CSS",
     tools: ["Next.js", "TypeScript", "Tailwind CSS"]
-  },
+  }
 ];
 
 function Projects() {
